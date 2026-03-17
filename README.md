@@ -1,11 +1,13 @@
 ## 👋 ¡Holaa! Soy Carlos Durán
 
 😄 Estudiante de ingenieria informatica 
+
 🔥 Extrovertido, Risueño, Deportista y Con ganas de aprender cada dia una cosa nueva
 
 ## 🧠 Sobre mi
 
 ☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento 
+
 ✋ Disfruto trabajar en equipo, y hacer todo super bien
 
 <!--
