@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 ¡Holaa! Soy Carlos Durán
+
+😄 Estudiante de ingenieria informatica 
+🔥 Extrovertido, Risueño, Deportista y Con ganas de aprender cada dia una cosa nueva
+
+## 🧠 Sobre mi
+
+☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento 
+✋ Disfruto trabajar en equipo, y hacer todo super bien
 
 <!--
 **carlows7/carlows7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
