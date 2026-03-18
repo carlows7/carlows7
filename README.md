@@ -1,14 +1,16 @@
 ## 👋 ¡Holaa! Soy Carlos Durán
 
-😄 Estudiante de ingenieria informatica 
+😄 Estudiante de ingenieria informatica .
 
-🔥 Extrovertido, Risueño, Deportista y Con ganas de aprender cada dia una cosa nueva
+🔥 Extrovertido, Risueño, Amigable, Divertido, El 9, Deportista, y Con ganas de aprender cada dia una cosa nueva.
+
+🥇 Certificados en Excel, Word, PowerPoint de Jasperactive, Certificados en Ingles B1-B4, Intermedio y PreAvanzado de Direct English.
 
 ## 🧠 Sobre mi
 
-☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento 
+☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento tecnico.
 
-✋ Disfruto trabajar en equipo, y hacer todo perfecto
+✋ Disfruto trabajar en equipo, y hacer todo perfecto.
 
 ⭐ Me gustan mucho los carros 🚗 
 
