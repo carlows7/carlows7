@@ -14,6 +14,7 @@
 - HTML
 - Python
 - C++
+
 ##Herramientas de trabajo
 - VSCODE
 - Git y GitHub
