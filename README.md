@@ -14,7 +14,9 @@
 - HTML
 - Python
 - C++
-
+##Herramientas de trabajo
+- VSCODE
+- Git y GitHub
 
 ✋ Disfruto trabajar en equipo, y hacer todo perfecto.
 
