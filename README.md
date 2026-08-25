@@ -10,6 +10,12 @@
 
 ☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento tecnico.
 
+## Conocimiento 
+- HTML
+- Python
+- C++
+
+
 ✋ Disfruto trabajar en equipo, y hacer todo perfecto.
 
 ⭐ Me gustan mucho los carros 🚗 
