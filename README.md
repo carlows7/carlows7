@@ -15,7 +15,7 @@
 - Python
 - C++
 
-##Herramientas de trabajo
+## Herramientas de trabajo
 - VSCODE
 - Git y GitHub
 
