@@ -1,6 +1,6 @@
 ## 👋 ¡Holaa! Soy Carlos Durán
 
-🇸🇻 Uca El Salvador
+🇸🇻 Uca - El Salvador
 
 👑 Estudiante de ingenieria informatica .
 
