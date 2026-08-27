@@ -6,7 +6,7 @@
 
 🔥 Extrovertido, Risueño, Amigable, Divertido, El 9, Deportista, y Con ganas de aprender cada dia una cosa nueva.
 
-🥇 Certificados en Excel, Word, PowerPoint de Jasperactive, Certificados en Ingles B1-B4, Intermedio y PreAvanzado de Direct English.
+🥇 Certificados en Excel, Word, PowerPoint de Jasperactive, Programa Claude Code, Certificados en Ingles B1-B4, Intermedio y PreAvanzado de Direct English.
 
 ## 🧠 Sobre mi
 
