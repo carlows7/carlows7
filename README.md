@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mi
 
-☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtenrer nuevo conocimiento tecnico.
+☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtener nuevo conocimiento tecnico.
 
 ✋ Disfruto trabajar en equipo, y hacer todo perfecto.
 
