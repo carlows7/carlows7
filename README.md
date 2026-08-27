@@ -1,6 +1,8 @@
 ## 👋 ¡Holaa! Soy Carlos Durán
 
-😄 Estudiante de ingenieria informatica .
+  Uca El Salvador
+
+  Estudiante de ingenieria informatica .
 
 🔥 Extrovertido, Risueño, Amigable, Divertido, El 9, Deportista, y Con ganas de aprender cada dia una cosa nueva.
 
