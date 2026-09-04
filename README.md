@@ -21,6 +21,11 @@
 - Python
 - C++
 
+## Base de Datos
+- SQL
+- SQLite
+- JSON
+
 ## Herramientas de trabajo
 - VSCODE
 - Git y GitHub
