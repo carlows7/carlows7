@@ -24,7 +24,6 @@
 ## Base de Datos
 - SQL
 - SQLite
-- JSON
 
 ## Herramientas de trabajo
 - VSCODE
