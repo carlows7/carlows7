@@ -16,19 +16,17 @@
 
 ⭐ Me gustan mucho los carros 🚗 
 
-## Conocimiento 
-- HTML
-- Python
-- C++
+### 💻 Lenguajes
+C++ • Python • HTML • SQL
 
-## Base de Datos
-- SQL
-- SQLite
+### 🗄️ Bases de datos
+SQLite • SQL
 
-## Herramientas de trabajo
-- VSCODE
-- Git y GitHub
+### 🛠️ Herramientas
+Git • GitHub • VS Code
 
+### 📚 Actualmente aprendiendo
+Desarrollo de software • Estructuras de datos • Desarrollo web
 
 <!--
 **carlows7/carlows7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
