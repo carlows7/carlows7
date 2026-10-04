@@ -8,14 +8,14 @@
 
 ## 📜 Certificaciones
 
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-- Jasperactive
-- Claude Code
+- Microsoft Excel Jasperactive
+- Microsoft Word Jasperactive
+- Microsoft PowerPoint Jasperactive
+- Certificación en Claude Code
 - Inglés B1–B4
 - English Intermediate
 - English Pre-Advanced
+  
 ## 🧠 Sobre mi
 
 ☁️ Me interesa bastante el desarrollo de software, tener nuevas experiencias y obtener nuevo conocimiento tecnico.
